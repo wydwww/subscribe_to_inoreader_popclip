@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Actions</key>
+	<array>
+		<dict>
+			<key>Requirements</key>
+			<array>
+				<string>httpurl</string>
+			</array>
+			<key>Image File</key>
+			<string>rss.png</string>
+			<key>Script Interpreter</key>
+			<string>/bin/bash</string>
+			<key>Shell Script File</key>
+			<string>url_subscribe.sh</string>
+			<key>Title</key>
+			<string>Subscribe to Inoreader</string>
+		</dict>
+	</array>
+	<key>Credits</key>
+	<array>
+		<dict>
+			<key>Link</key>
+			<string>https://github.com/wydwww/subscribe_to_inoreader_popclip</string>
+			<key>Name</key>
+			<string>wydwww</string>
+		</dict>
+	</array>
+	<key>Extension Description</key>
+	<string>Subscribe a website to Inoreader.</string>
+	<key>Extension Identifier</key>
+	<string>com.wydwww.extension.subscribe-to-inoreader</string>
+	<key>Extension Name</key>
+	<string>Subscribe to Inoreader</string>
+</dict>
+</plist>
